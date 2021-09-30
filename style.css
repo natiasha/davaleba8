@@ -21,7 +21,7 @@ body{
 }
 .navbar-ul{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     flex-wrap: nowrap;
     color: white;
     text-decoration: none;
