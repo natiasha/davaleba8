@@ -18,6 +18,7 @@ body{
 .navbar-li{
     font-size: 16px;
     text-align: center;
+    padding-right: 43px;
 }
 .navbar-ul{
     display: flex;
@@ -25,16 +26,22 @@ body{
     flex-wrap: nowrap;
     color: white;
     text-decoration: none;
+    list-style-type: none;
+}
+.navbar-ul{
+    marker: none;
 }
 a{
     color:#FFFFFF;
     text-decoration: none;
 }
+#box{
+    color: #000;
+}
 #kontaqti{
     border: 1px;
     background-color: #FFFFFF;
     text-align: center;
-    color: black;
     width: 160px;
     height: 55px;
     font-size: 16px;
@@ -43,6 +50,7 @@ a{
     display: flex;
     width: 1475px;
     height: 91px;
+    justify-content: space-between;
 }
 .image{
     display: flex;
