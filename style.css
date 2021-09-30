@@ -51,10 +51,12 @@ a{
     width: 1475px;
     height: 91px;
     justify-content: space-around;
+    margin-top: 22px;
 }
 .image{
     display: flex;
     justify-content: center;
+    margin-top: 240px;
 }
 
 
