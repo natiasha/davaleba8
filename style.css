@@ -50,7 +50,7 @@ a{
     display: flex;
     width: 1475px;
     height: 91px;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 .image{
     display: flex;
