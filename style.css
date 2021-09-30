@@ -37,6 +37,7 @@ a{
 }
 #box{
     color: #000;
+    align-content: inherit;
 }
 #kontaqti{
     border: 1px;
